@@ -43,6 +43,14 @@ This project analyzes customer churn in a telecommunications company using Pytho
 3. Run the SQL queries in `churn.sql` using MySQL with the required dataset.
 4. Open `newPr.pbix` in Microsoft Power BI Desktop.
 
+## Power BI Dashboard
+
+### Dashboard Page 1
+![Dashboard Page 1](dashboard_page1.png)
+
+### Dashboard Page 2
+![Dashboard Page 2](dashboard_page2.png)
+
 ## Author
 
 Kishore V. – Aspiring Data Analyst
